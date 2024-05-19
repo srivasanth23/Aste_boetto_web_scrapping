@@ -507,10 +507,3 @@ if __name__ == "__main__":
             fp.write("\n")
     fp.close()
     updatestatus(auctionnumber, auctionurl)
-
-
-
-
-#srivasanth
-#python aste_boetto.py "https://www.asteboetto.it/index.php/it/archivio-aste?id=141&codAsta=2401C" 2401C "/mnt/d/ArtBider_Internship/Folders/aste_boetto/aste_boetto_2401C.csv" "/mnt/d/ArtBider_Internship/Folders/aste_boetto/2401C" 0 0
-
